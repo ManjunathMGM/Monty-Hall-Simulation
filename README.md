@@ -25,6 +25,7 @@ Theoretical probability of winning when switching:  66.6667%
 
 Contributions are always welcome! Whether you find a bug, have a suggestion, or want to add a feature, just open an issue or submit a pull request. Let's improve this project together! ✨
 </br>
+> This project was undertaken as part of my coursework for MAT 205 - Mathematical Methods III: Statistics and Probability.
 
 ## :pencil: License
 
